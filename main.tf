@@ -1,4 +1,4 @@
-provider "demo" {
+provider "aws" {
   user = "${var.user}"
   password = "${var.password}"
 }
